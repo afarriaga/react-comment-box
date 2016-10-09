@@ -9,7 +9,7 @@
     "build": "browserify src/app.js -o public/bundle.js -t [ babelify --presets [ es2015 react ] ]",
     "watch": "watchify src/app.js -o public/bundle.js -t [ babelify --presets [ es2015 react ] ]"
   },
-  "author": "Fredi",
+  "author": "afarriaga",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.15.2",
@@ -25,5 +25,19 @@
     "babelify": "^7.3.0",
     "browserify": "^13.1.0",
     "watchify": "^3.7.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/afarriaga/react-comment-box.git"
+  },
+  "keywords": [
+    "react",
+    "tutorial",
+    "comment",
+    "example"
+  ],
+  "bugs": {
+    "url": "https://github.com/afarriaga/react-comment-box/issues"
+  },
+  "homepage": "https://github.com/afarriaga/react-comment-box",
 }
