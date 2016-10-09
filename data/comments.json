@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "author": "Peter Griffin",
+    "text": "This is one comment"
+  },
+  {
+    "id": "2",
+    "author": "Matti Virtanen",
+    "text": "This is *another* comment"
+  },
+  {
+    "id": 1475995468999,
+    "author": "James Lopez",
+    "text": "Reactive man!"
+  }
+]
